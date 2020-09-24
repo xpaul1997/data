@@ -1,0 +1,44 @@
+{
+   "source":"db",
+   "main_result":{
+      "aggregation":"y",
+      "header":[
+         "Partei",
+         "Prozente"
+      ],
+      "page_title":"1969 TVW Channel 7 Le Mans 6 Hour Race",
+      "types":[
+         "text",
+         "real"
+      ],
+      "page_id":18205225,
+      "id":"2-18205225-1",
+      "section_title":"Results",
+        "rows":[
+            [ 
+              "CDU",
+              "22.6"
+            ],
+            
+            [ 
+              "SPD",
+              "15.8"
+            ],
+             [ 
+              "Grüne",
+              "20.5"
+            ],
+             [ 
+              "Linke",
+              "5.5"
+            ],
+             [ 
+              "Rest",
+              "35.6"
+            ],
+      
+         
+      ],
+      "caption":"Results"
+   }
+}
